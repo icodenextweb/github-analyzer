@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.bg-pattern {
+  background-image: radial-gradient(#1e293b 1.5px, transparent 1.5px);
+  background-size: 24px 24px;
+}
